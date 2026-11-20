@@ -1,0 +1,10 @@
+{
+  "id": "com.stupidtree.hita.ui.eas",
+  "name": "教务",
+  "version": "0.1.0",
+  "entryClass": "com.stupidtree.hita.ui.eas.EasUiPlugin",
+  "apiVersion": 7,
+  "composeVersion": "1.6.8",
+  "capabilities": ["hita.ui.eas"],
+  "mainTabs": [{"id":"eas","title":"教务","order":60}]
+}
